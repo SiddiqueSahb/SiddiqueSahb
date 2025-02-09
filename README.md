@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Mohammad Asim  
 
-## 🚀 Data Scientist | Machine Learning | NLP | Deep Learning Enthusiast  
+## 🚀 Data Scientist | Machine Learning | Deep Learning | NLP Enthusiast  
 
 Welcome to my GitHub! I'm a passionate **Data Scientist** with expertise in **Machine Learning, Natural Language Processing (NLP), and Deep Learning**. I specialize in building **data-driven solutions, optimizing business workflows, and enhancing decision-making through data insights.**  
 
