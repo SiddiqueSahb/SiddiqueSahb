@@ -25,6 +25,8 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with expertise in **Ma
 - **Deployment & Cloud Technologies:** Flask, Streamlit, AWS, Google Cloud 
 - **Other Tools & Technologies:** Git, Selenium, NumPy, Pandas  
 
+<!--
+
 ---
 
 ## 📌 Featured Projects:  
@@ -38,6 +40,7 @@ Welcome to my GitHub! I'm a passionate **Data Scientist** with expertise in **Ma
 ### 📖 Text Summarization NLP | NLP  
 📝 Built an **end-to-end text summarization system** using transformer-based models (**BERT**), optimizing content readability and processing.  
 
+-->
 👉 **Check out my repositories for more projects!**  
 
 ---
